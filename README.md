@@ -32,12 +32,14 @@ I love building impactful solutions that combine **creativity**, **technology** 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/gustavom0ri" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavom0ri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavom0ri&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</p>
+<a href="https://github.com/gustavom0ri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavom0ri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/gustavom0ri">
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavom0ri&layout=compact&langs_count=6&theme=tokyonight"/>
+</a>
+
 
 
 ---
