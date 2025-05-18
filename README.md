@@ -64,6 +64,8 @@ I love building impactful solutions that combine **creativity**, **technology** 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mori-b26aba239/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gustavomori382@gmail.com)
+[![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/gustavomori4)
+
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
